@@ -1,0 +1,18 @@
+.outerSection {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.heading-section{
+    width: 100%;
+    padding: 5%;
+}
+
+.product-section{
+    display: grid;
+    grid-template-columns: auto auto auto;
+   
+}
+.products{
+    margin: 8%;
+}
